@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Do Hyeon;
+    src: url('fonts/DoHyeon-Regular.ttf');
+}
+h1, h2 {
+    font-family: 'Do Hyeon', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
